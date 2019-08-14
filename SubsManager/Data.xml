@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TwitchSubs>
+	<Subscriber>
+		<username>Arghh342</username>
+		<subtime>3</subtime>
+		<startdate>4/20/2018</startdate>
+		<enddate>7/20/2018</enddate>
+	</Subscriber>
+	<Subscriber>
+		<username>JoeJoe</username>
+		<subtime>1</subtime>
+		<startdate>4/10/2018</startdate>
+		<enddate>5/10/2018</enddate>
+	</Subscriber> 
+</TwitchSubs>

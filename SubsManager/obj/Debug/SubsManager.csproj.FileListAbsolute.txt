@@ -1,0 +1,57 @@
+C:\Users\Angel\Documents\Visual Studio 2012\Projects\SubsManager\SubsManager\bin\Debug\SubsManager.exe.config
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\bin\Debug\SubsManager.exe
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\bin\Debug\SubsManager.pdb
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Debug\SubsManager.Form1.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Debug\SubsManager.Properties.Resources.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Debug\SubsManager.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Debug\SubsManager.exe
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Debug\SubsManager.pdb
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Debug\SubsManager.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\bin\Debug\SubsDB.sdf
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Debug\SubsManager.PopUpdateForm.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.exe.config
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.exe
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.pdb
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\bin\Debug\SubsDB.sdf
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.exe.manifest
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.application
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.exe
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.pdb
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.Form1.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.PopUpdateForm.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.Properties.Resources.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.exe.manifest
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.application
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.exe.config
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.exe
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.pdb
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\bin\Debug\SubsDB.sdf
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.exe.manifest
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.application
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.exe
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\bin\Debug\SubsManager.pdb
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.Form1.resources
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.PopUpdateForm.resources
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.Properties.Resources.resources
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.csproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.exe.manifest
+C:\Users\Angel\Desktop\SubsManager - Copy\SubsManager\obj\Debug\SubsManager.application
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\bin\Debug\SubsDB.sdf
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\bin\Debug\SubsManager.exe.config
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\bin\Debug\SubsManager.exe.manifest
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\bin\Debug\SubsManager.application
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\bin\Debug\SubsManager.exe
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\bin\Debug\SubsManager.pdb
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.csprojAssemblyReference.cache
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.Form1.resources
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.PopUpdateForm.resources
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.Properties.Resources.resources
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.exe.manifest
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.application
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.exe
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Debug\SubsManager.pdb

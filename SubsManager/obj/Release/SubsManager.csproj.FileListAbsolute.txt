@@ -1,0 +1,17 @@
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\bin\Release\SubsDB.sdf
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\bin\Release\SubsManager.exe.config
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\bin\Release\SubsManager.exe
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\bin\Release\SubsManager.pdb
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Release\SubsManager.Form1.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Release\SubsManager.PopUpdateForm.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Release\SubsManager.Properties.Resources.resources
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Release\SubsManager.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Release\SubsManager.exe
+C:\Users\Angel\Documents\visual studio 2012\Projects\SubsManager\SubsManager\obj\Release\SubsManager.pdb
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Release\SubsManager.Form1.resources
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Release\SubsManager.PopUpdateForm.resources
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Release\SubsManager.Properties.Resources.resources
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Release\SubsManager.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Release\SubsManager.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Release\SubsManager.exe
+C:\Users\alexi\Desktop\projects guthub\SubsManager\SubsManager\obj\Release\SubsManager.pdb
